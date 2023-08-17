@@ -1,5 +1,5 @@
 terraform {
-  source = "git::https://github.com/prodyna/terragrunt-training-modules//modules/base"
+  source = "git::https://github.com/GrobPohlMichael/terrgrunt-training-module-base//.?ref=v0.0.1"
 
 }
 include "global" {
